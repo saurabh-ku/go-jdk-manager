@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+jdk
+/jdk-dump/
+/main
+
+.DS_Store
+.idea/
